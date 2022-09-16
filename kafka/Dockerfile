@@ -1,6 +1,6 @@
 # Kafka and Zookeeper
 
-FROM ubuntu/kafka
+FROM openjdk
 
 ENV SCALA_VERSION 2.12
 ENV KAFKA_VERSION 3.2.1
